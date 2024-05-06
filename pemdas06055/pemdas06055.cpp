@@ -16,10 +16,5 @@ public:
 	friend void manusia::showNilaipelajar(pelajar& x);
 };
 
-void manusia::showNilaipelajar(pelajar &x)
-int main()
-{
-   
-}
 
 
